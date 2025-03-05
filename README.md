@@ -13,15 +13,7 @@ Insira o valor do produto quando solicitado.
 
 Escolha uma forma de pagamento entre as opções disponíveis:
 
-dinheiro
-
-cheque
-
-cartao debito
-
-cartao credito 2x
-
-cartao credito 3x
+dinheiro, cheque, cartao debito, cartao credito 2x, cartao credito 3x
 
 O programa calculará automaticamente o preço final com descontos ou juros e exibirá os detalhes do pagamento.
 

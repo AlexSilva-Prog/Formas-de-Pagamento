@@ -36,8 +36,3 @@ Cartão de Crédito em 2x: Sem desconto ou juros.
 
 Cartão de Crédito em 3x: Acréscimo de 20% de juros.
 Requisitos
-
-Desenvolvedor
-
-ALEX RODRIGUES DA SILVA
-

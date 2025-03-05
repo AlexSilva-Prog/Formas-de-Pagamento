@@ -37,18 +37,6 @@ Cartão de Crédito em 2x: Sem desconto ou juros.
 Cartão de Crédito em 3x: Acréscimo de 20% de juros.
 Requisitos
 
-
-Python 3.x
-
-Melhorias Futuras
-
-Adicionar suporte a mais formas de pagamento.
-
-Melhorar a interface do usuário com menus mais intuitivos.
-
-Permitir entrada insensível a maiúsculas e minúsculas para facilitar a usabilidade.
-
-
 Desenvolvedor
 
 ALEX RODRIGUES DA SILVA
